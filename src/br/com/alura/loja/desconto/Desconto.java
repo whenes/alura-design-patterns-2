@@ -22,5 +22,4 @@ public abstract class Desconto {
 	
 	public abstract BigDecimal efetuarCalculo(Orcamento orcamento);
 	public abstract boolean deveAplicar(Orcamento orcamento);
-
 }
